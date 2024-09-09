@@ -26,3 +26,5 @@
 4. Send repository link in the submission form
 
 ### [How to upload files and folders to Github](https://youtu.be/tlu5e0TxSzo?si=sVeKZAHJJOUlyDJi)
+
+### [How to Host a Website on GitHub Pages and Vercel?](https://youtu.be/Z1A_myx3zuE?si=ginVhE3JAXKqbjQo)
