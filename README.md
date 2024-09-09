@@ -1,6 +1,7 @@
-Cuvette.Tech Boilerplate for Liftoff Bounty Task - Best of Luck!
+Cuvette.Tech Boilerplate for Liftoff Bounty Task - Best of Luck! 
 Join Liftoff - https://www.liftoffclub.in
 
+![image](https://github.com/user-attachments/assets/0ae34c78-6c1a-48b1-89f8-6a5b16b0f76f)
 
 
 Scope of the Task
