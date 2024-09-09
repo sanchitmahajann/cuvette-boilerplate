@@ -12,7 +12,7 @@
 |2|Database Integration|Use a database (preferably MongoDB) to store job listings. Retrieve job data from the database and display it in the relevant sections of your site.|
 |3|Navbar and Sidebar|Use the provided boilerplate for creating a functional navbar and sidebar.|
 |4|Full-time Jobs Section|Display full-time job listings pulled from your database.|
-|5|Other Jobs Section|Display other job listings from your database.Ensure that clicking the "Apply" button for these jobs opens the corresponding LinkedIn page in a new tab.|
+|5|Other Jobs Section|Display other job listings from your database. Ensure that clicking the "Apply" button for these jobs opens the corresponding LinkedIn page in a new tab.|
 |6|Job Search|Implement a search functionality that allows users to search for jobs by title, company, or keywords. The search should retrieve relevant results from the database.|
 |7|Job Filters|Implement filters that allow users to narrow down job results (e.g., by job type, location).|
 |8|Deployment|Deploy your project to a live environment, ensuring it is accessible via a public URL.|
