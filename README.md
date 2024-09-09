@@ -24,3 +24,5 @@
 2. Set the visibility to Public
 3. Add a URL to your hosted site
 4. Send repository link in the submission form
+
+### [How to upload files and folders to Github](https://youtu.be/tlu5e0TxSzo?si=sVeKZAHJJOUlyDJi)
