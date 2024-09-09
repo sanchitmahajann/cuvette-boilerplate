@@ -16,3 +16,11 @@
 |6|Job Search|Implement a search functionality that allows users to search for jobs by title, company, or keywords. The search should retrieve relevant results from the database.|
 |7|Job Filters|Implement filters that allow users to narrow down job results (e.g., by job type, location).|
 |8|Deployment|Deploy your project to a live environment, ensuring it is accessible via a public URL.|
+
+
+## Submission Guidelines
+
+1. Upload all your code to a GitHub Repository
+2. Set the visibility to Public
+3. Add a URL to your hosted site
+4. Send repository link in the submission form
