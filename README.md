@@ -1,5 +1,7 @@
 ![thumbnail-tech-bounty](https://github.com/user-attachments/assets/a83c15bc-52b4-4e23-bbb5-95050e7689f9)
 
+## Task Details
+
 ![image](https://github.com/user-attachments/assets/f0007c26-83f3-4c69-b48f-340a7facc066)
 
 
