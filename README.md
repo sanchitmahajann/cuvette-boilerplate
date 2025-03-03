@@ -7,7 +7,7 @@
 | #   | Topic                  | Order | Description                                                                                                                                                          |
 | --- | ---------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Project Setup          | 0     | Set up your development environment and structure your project with appropriate tools and frameworks.                                                                |
-| 2   | Database Integration   | 0     | Use a database (preferably MongoDB) to store job listings. Retrieve job data from the database and display it in the relevant sections of your site.                 |
+| 2   | Database Integration   | 0     | Use a database (preferably PostgresQL) to store job listings. Retrieve job data from the database and display it in the relevant sections of your site.                 |
 | 3   | Navbar and Sidebar     | 0     | Use the provided boilerplate for creating a functional navbar and sidebar.                                                                                           |
 | 4   | Full-time Jobs Section | 1     | Display full-time job listings pulled from your database.                                                                                                            |
 | 5   | Other Jobs Section     | 2     | Display other job listings from your database. Ensure that clicking the "Apply" button for these jobs opens the corresponding LinkedIn page in a new tab.            |
